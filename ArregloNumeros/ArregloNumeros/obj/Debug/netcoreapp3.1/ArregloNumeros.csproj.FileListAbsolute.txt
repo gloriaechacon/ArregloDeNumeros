@@ -1,0 +1,14 @@
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\bin\Debug\netcoreapp3.1\ArregloNumeros.exe
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\bin\Debug\netcoreapp3.1\ArregloNumeros.deps.json
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\bin\Debug\netcoreapp3.1\ArregloNumeros.runtimeconfig.json
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\bin\Debug\netcoreapp3.1\ArregloNumeros.runtimeconfig.dev.json
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\bin\Debug\netcoreapp3.1\ArregloNumeros.dll
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\bin\Debug\netcoreapp3.1\ArregloNumeros.pdb
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.csproj.AssemblyReference.cache
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.AssemblyInfoInputs.cache
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.AssemblyInfo.cs
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.csproj.CoreCompileInputs.cache
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.dll
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.pdb
+C:\Users\abraham\Documents\Gloria\Git\ArregloNumeros\ArregloNumeros\obj\Debug\netcoreapp3.1\ArregloNumeros.genruntimeconfig.cache
